@@ -14,7 +14,7 @@ This research aims to enhance accuracy with responsible and transparent AI appli
 #### **Repository Structure:**
 
 - /report → Full research report, including state of the art, methodology, results, and analysis.
-- /dataset → Kaggle dataset ([CK+ Dataset](https://www.kaggle.com/datasets/davilsena/ckdataset).
+- /dataset → Kaggle dataset ([CK+ Dataset](https://www.kaggle.com/datasets/davilsena/ckdataset)).
 - /code → Machine learning models, training scripts, and explainability tools (LIME, SHAP).
 
 ### **Author**
